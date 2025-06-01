@@ -1,192 +1,248 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Các thẻ meta và liên kết tới CSS -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <title>Bạn Đang Lấy ID Tại: {{ $appname }}</title>
+    <style>
+        /* CSS tương tự như trước */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-image: linear-gradient(0deg, #e6f7ff 5%, #ffffff 50%, #cceeff 100%);
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: #333;
+        }
+
+        .card1 {
+            box-shadow: 0px 0px 10px 5px rgb(235 235 235), 0 0 0 rgb(110 29 255);
+            border-radius: 20px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .card {
+            background-color: #ffffff;
+            border: 1px solid #ccccff;
+            border-radius: 20px;
+            padding: 2rem;
+            max-width: 400px;
+            width: 100%;
+            box-shadow: inset 0px 0px 15px 10px rgb(204 204 255), 0 0 0 rgb(125 125 125);
+        }
+
+        h1 {
+            color: #333;
+            font-size: 1.5rem;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        p {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .btn-primary,
+        .btn-secondary {
+            width: 100%;
+            margin-bottom: 0.5rem;
+        }
+
+        .btn-primary {
+            background-color: #cceeff !important;
+            color: #0059b3 !important;
+            box-shadow: inset 0px 0px 10px 5px rgb(204 204 255), 0 0 0 rgb(255 134 179) !important;
+            font-weight: 600;
+            border: 1px solid #99ccff !important;
+            border-radius: 10px;
+        }
+
+        .btn-primary:hover {
+            transform: scale(1.1);
+            background-color: #99ccff !important;
+            border: 1px solid #66b2ff !important;
+        }
+
+        .btn-secondary {
+            background-color: #80bfff;
+            border-color: #6c757d;
+            font-weight: 600;
+            border-radius: 8px;
+        }
+
+        .btn-secondary:hover {
+            background-color: #66a3ff;
+            border-color: #545b62;
+        }
+
+        ol {
+            text-align: left;
+        }
+
+        /* Custom CSS for spinner */
+        .spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            border-left-color: #09f;
+            animation: spin 1s infinite linear;
+            display: inline-block;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card1">
+            <div class="card">
+                <h1>Bạn Đang Lấy ID Tại<br> {{ $appname }}</h1>
+                <div class="text-center">
+                    <p><strong>Số lần lấy còn lại:</strong> {{ $appleidlimit }}</p>
+                    <button id="newIdButton" class="btn btn-primary" onclick="confirmNewId()" style="display: none;">👉 Lấy ID Mới</button>
+                    <p><strong>Trạng thái:</strong> {{ $statusid }}</p>
+                    <p><strong>ID:</strong> <span id="username">{{ $username }}</span></p>
+                    <p hidden><strong>Password:</strong> <span id="password">{{ $password }}</span></p>
+                    <button id="copyUsernameButton" onclick="copyUsernameToClipboard()" class="btn btn-primary" style="display: none;">👉 Sao Chép Tài Khoản</button>
+                    <button id="copyPasswordButton" onclick="copyPasswordToClipboard()" class="btn btn-primary" style="display: none;">👉 Sao Chép Mật Khẩu</button>
+                    
+                    </p>
+<div id="quantumultXSection" style="display: none;">
+    <p id="passwordValidityNote"><strong>Quantumult X:</strong> Bấm vào để tải Quantumult X</p>
+    <button id="quantumultXSection" onclick="window.location.href='{{ $quantumultx }}'" class="btn btn-primary">👉 Tải Quantumult X</button>
+    <p id="quantumultXSection"><strong>Lưu ý:</strong> Nhớ tải Quantumult X trong tài khoản trước rồi xoá đi và tải lại ở đây thì mới không bị Build đỏ nhé</p>
+</div>
+
+<p id="passwordExpiryNote" style="display: none;"><strong>Mật khẩu chỉ có hiệu lực trong 30 phút</strong></p>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var copyUsernameButton = document.getElementById('copyUsernameButton');
+        var quantumultXSection = document.getElementById('quantumultXSection');
+        if (copyUsernameButton.style.display !== 'none') {
+            quantumultXSection.style.display = 'block';
+        }
+    });
+</script>
+                    
+                    <p id="noteText"><strong>* Lưu ý:</strong>
+                        <i>Mật khẩu sẽ được thay đổi 30phút 1 lần, nên các bạn hạn chế bấm lấy id khi không cần thiết để tránh mất lượt lấy id nha, nếu hết lượt vui lòng thuê lại <br><b></b><br>cảm ơn các bạn đã ủng hộ.</i>
+                    <ol>
+                        <li>Vào Mục Đã Mua (Hoặc phần "Ứng Dụng" trên IOS17 trong App Store) để tải APP</li>
+                        <li>Tiếp theo chọn "Bấm Vào Đây, Để Lấy ID App-Game"</li>
+                        <li>Tải Xong Hãy Đăng Xuất Ngay</li>
+                        <li>Nếu gặp tình trạng bị khóa hoặc vấn đề đăng nhập liên hệ Zalo Admin để khắc phục sớm nhất</li>
+                    </ol>
+                    
+
+
+
+                    <p id="passwordValidity" style="display: none;"><strong>Mật khẩu chỉ có hiệu lực trong 30 phút</strong></p>
+                    <p id="confirmText" style="display: block;">
+                        <div><span id="spinner" class="spinner" style="margin-bottom: -5px;"></span> <span>Nếu đã đọc xong hãy bấm nút xác nhận để lấy ID</span> </div>
+                    </p>
+                    <button id="confirmButton" onclick="showCopyButtons()" class="btn btn-primary">👉 Xác Nhận Đã Đọc Lưu Ý</button>
+                    <hr>
+                    <a id="backToHome" href="/#/dashboard" class="btn btn-secondary">Quay Lại Trang chủ</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script>
+        let usernameCopied = false;
+        let passwordCopied = false;
+
+        async function copyTextToClipboard(text) {
+            try {
+                await navigator.clipboard.writeText(text);
+
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Sao chép thành công!',
+                    showConfirmButton: false,
+                    timer: 1500
+                });
+            } catch (err) {
+                console.error('Failed to copy text: ', err);
+            }
+        }
+
+        function copyUsernameToClipboard() {
+            const username = document.getElementById('username').innerText;
+            copyTextToClipboard(username);
+            usernameCopied = true;
+            checkCopyStatus();
+        }
+
+        function copyPasswordToClipboard() {
+            const password = document.getElementById('password').innerText;
+            copyTextToClipboard(password);
+            passwordCopied = true;
+            checkCopyStatus();
+        }
+
+        function showCopyButtons() {
+            document.getElementById('copyUsernameButton').style.display = 'block';
+            document.getElementById('copyPasswordButton').style.display = 'block';
+            document.getElementById('passwordValidity').style.display = 'block';
+            document.getElementById('quantumultXSection').style.display = 'block';
+            document.getElementById('confirmButton').style.display = 'none';
+            document.getElementById('noteText').style.display = 'none';
+            document.getElementById('confirmText').style.display = 'none';
+            document.getElementById('spinner').style.display = 'none';
+        }
+
+        function checkCopyStatus() {
+            if (usernameCopied && passwordCopied) {
+                document.getElementById('newIdButton').style.display = 'block';
+            }
+        }
+
+        function confirmNewId() {
+            Swal.fire({
+                title: 'Lấy ID mới sẽ mất sẽ 1 lượt lấy ID',
+                text: 'Hãy cân nhắc trước khi đồng ý, hoặc nếu gặp lỗi về ID hãy liên hệ Zalo admin  để khắc phục sớm nhất',
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonText: 'Đồng ý',
+                cancelButtonText: 'Hủy'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.reload();
+                }
+            });
+        }
+
+        document.getElementById('confirmButton').addEventListener('click', function () {
+            this.disabled = true;
+            setTimeout(() => {
+                showCopyButtons();
+            }, 3000);
+        });
+    </script>
+</body>
+
+</html>

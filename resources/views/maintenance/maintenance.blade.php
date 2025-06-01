@@ -1,68 +1,114 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>{{$title}}</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #e74c3c;
+            font-size: 20px;
+        }
+
+        p {
+            color: #555;
+            margin-top: 10px;
+            font-weight: 600;
+        }
+
+        a {
+            color: #3498db;
+        }
+
+        button {
+            background-color: #6e49cb;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            margin-top: 5px;
+            transition: all 0.3s ease-in-out;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .fa-shopping-cart {
+            margin-right: 8px;
+        }
+
+        .fas.fa-exclamation-triangle {
+            color: #dfb21f;
+            font-size: 5em;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <i class="fas fa-exclamation-triangle"></i>
+        <h1>
+            <i class="fas fa-exclamation-circle"></i>
+            Website Đang Bảo Trì
+
+        </h1>
+        <b>
+            <span id="activation-message"></span>
+        </b>
+        <br>
+        <span>Đang Trong Quá Trình Nâng Cấp</span>
+        <br>
+        <span>Vui lòng đợi trang giây lát...</span>
+        <br>
+        <br>
+        <span>
+            <b>
+                Hãy tham gia nhóm để<br>Theo giõi hoạt động mới nhất
+            </b>
+        </span>
+        <br>
+        @if (!empty($support))
+        <button onclick="window.location.href='{{ $support }}'">
+            <i class="fa-solid fa-user-group"></i>
+            Tham Gia Nhóm
+        </button>
+        @endif
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            var domainName = window.location.hostname.toUpperCase();
+            var activationMessage = domainName;
+            document.getElementById('activation-message').innerText = activationMessage;
+        }
+        );
+    </script>
+</body>
+
+</html>

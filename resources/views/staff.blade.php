@@ -1,35 +1,35 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/assets/staff/components.chunk.css?v={{$version}}">
+    <link rel="stylesheet" href="/assets/staff/umi.css?v={{$version}}">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+    <title>{{$title}}</title>
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700"> -->
+    <script>window.routerBase = "/";</script>
+    <script>
+        window.settings = {
+            title: '{{$title}}',
+            theme: {
+                sidebar: '{{$theme_sidebar}}',
+                header: '{{$theme_header}}',
+                color: '{{$theme_color}}',
+            },
+            version: '{{$version}}',
+            background_url: '{{$background_url}}',
+            logo: '{{$logo}}',
+            staff_path: '{{$staff_path}}'
+        }
+    </script>
+</head>
+
+<body>
+<div id="root"></div>
+<script src="/assets/staff/vendors.async.js?v={{$version}}"></script>
+<script src="/assets/staff/components.async.js?v={{$version}}"></script>
+<script src="/assets/staff/umi.js?v={{$version}}"></script>
+</body>
+
+</html>

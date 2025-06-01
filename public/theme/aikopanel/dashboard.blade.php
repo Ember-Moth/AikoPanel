@@ -1,69 +1,72 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-YKowVSxlQdNela8CtKIduG6KPJjcicOCef/7eNu=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/theme/{{$theme}}/assets/components.chunk.css?v={{$version}}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="/theme/{{$theme}}/assets/umi.css?v={{$version}}">
+    @if (file_exists(public_path("/theme/{{$theme}}/assets/custom.css")))
+        <link rel="stylesheet" href="/theme/{{$theme}}/assets/custom.css?v={{$version}}">
+    @endif
+    <meta charset="utf-8">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{{$logo}}">
+    <link rel="icon" href='{{$logo}}'>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+    @php ($colors = [
+        'darkblue' => '#3b5998',
+        'black' => '#343a40',
+        'default' => '#0665d0',
+        'green' => '#319795'
+    ])
+    <meta name="theme-color" content="{{$colors[$theme_config['theme_color']]}}">
+
+    <title>{{$title}}</title>
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700"> -->
+    <script>window.routerBase = "/";</script>
+    <script>
+        window.settings = {
+            title: '{{$title}}',
+            assets_path: '/theme/{{$theme}}/assets',
+            theme: {
+                sidebar: '{{$theme_config['theme_sidebar']}}',
+                header: '{{$theme_config['theme_header']}}',
+                color: '{{$theme_config['theme_color']}}',
+            },
+            version: '{{$version}}',
+            background_url: '{{$background_url}}',
+            description: '{{$description}}',
+            i18n: [
+                'vi-VN',
+                'en-US',
+                'zh-CN',
+                'ja-JP',
+                'ko-KR',
+                'zh-TW',
+                'fa-IR'
+            ],
+            logo: '{{$logo}}'
+        }
+    </script>
+    <script src="/theme/{{$theme}}/assets/i18n/zh-CN.js?v={{$version}}"></script>
+    <script src="/theme/{{$theme}}/assets/i18n/zh-TW.js?v={{$version}}"></script>
+    <script src="/theme/{{$theme}}/assets/i18n/en-US.js?v={{$version}}"></script>
+    <script src="/theme/{{$theme}}/assets/i18n/ja-JP.js?v={{$version}}"></script>
+    <script src="/theme/{{$theme}}/assets/i18n/vi-VN.js?v={{$version}}"></script>
+    <script src="/theme/{{$theme}}/assets/i18n/ko-KR.js?v={{$version}}"></script>
+    <script src="/theme/{{$theme}}/assets/i18n/fa-IR.js?v={{$version}}"></script>
+</head>
+
+<body>
+<div id="root"></div>
+{!! $custom_html !!}
+<script src="/theme/{{$theme}}/assets/vendors.async.js?v={{$version}}"></script>
+<script src="/theme/{{$theme}}/assets/components.async.js?v={{$version}}"></script>
+<script src="/theme/{{$theme}}/assets/umi.js?v={{$version}}"></script>
+@if (file_exists(public_path("/theme/{$theme}/assets/custom.js")))
+    <script src="/theme/{{$theme}}/assets/custom.js?v={{$version}}"></script>
+@endif
+</body>
+
+</html>

@@ -1,35 +1,42 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Tests;
+
+use Illuminate\Contracts\Console\Kernel;
+use PHPUnit\Runner\AfterLastTestHook;
+use PHPUnit\Runner\BeforeFirstTestHook;
+
+class Bootstrap implements BeforeFirstTestHook, AfterLastTestHook
+{
+    /*
+    |--------------------------------------------------------------------------
+    | Bootstrap The Test Environment
+    |--------------------------------------------------------------------------
+    |
+    | You may specify console commands that execute once before your test is
+    | run. You are free to add your own additional commands or logic into
+    | this file as needed in order to help your test suite run quicker.
+    |
+    */
+
+    use CreatesApplication;
+
+    public function executeBeforeFirstTest(): void
+    {
+        $console = $this->createApplication()->make(Kernel::class);
+
+        $commands = [
+            'config:cache',
+            'event:cache',
+        ];
+
+        foreach ($commands as $command) {
+            $console->call($command);
+        }
+    }
+
+    public function executeAfterLastTest(): void
+    {
+        array_map('unlink', glob('bootstrap/cache/*.phpunit.php'));
+    }
+}

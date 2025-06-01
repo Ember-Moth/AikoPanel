@@ -1,29 +1,18 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Foundation\Inspiring;
+
+/*
+|--------------------------------------------------------------------------
+| Console Routes
+|--------------------------------------------------------------------------
+|
+| This file is where you may define all of your Closure based console
+| commands. Each Closure is bound to a command instance allowing a
+| simple approach to interacting with each command's IO methods.
+|
+*/
+
+Artisan::command('inspire', function () {
+    $this->comment(Inspiring::quote());
+})->describe('Display an inspiring quote');
