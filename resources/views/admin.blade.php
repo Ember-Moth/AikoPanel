@@ -1,35 +1,35 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <link rel="stylesheet" href="/assets/admin/components.chunk.css?v={{$version}}">
-    <link rel="stylesheet" href="/assets/admin/umi.css?v={{$version}}">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
-    <title>{{$title}}</title>
-    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700"> -->
-    <script>window.routerBase = "/";</script>
-    <script>
-        window.settings = {
-            title: '{{$title}}',
-            theme: {
-                sidebar: '{{$theme_sidebar}}',
-                header: '{{$theme_header}}',
-                color: '{{$theme_color}}',
-            },
-            version: '{{$version}}',
-            background_url: '{{$background_url}}',
-            logo: '{{$logo}}',
-            secure_path: '{{$secure_path}}'
-        }
-    </script>
-</head>
-
-<body>
-<div id="root"></div>
-<script src="/assets/admin/vendors.async.js?v={{$version}}"></script>
-<script src="/assets/admin/components.async.js?v={{$version}}"></script>
-<script src="/assets/admin/umi.js?v={{$version}}"></script>
-</body>
-
-</html>
+<?php //002cd
+if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
+?>
+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

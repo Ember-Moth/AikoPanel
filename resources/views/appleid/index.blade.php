@@ -1,82 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Apple ID List</title>
-    <!-- CSS Styles -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-
-        .header {
-            background-color: #007bff;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-        }
-
-        .results-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            padding: 20px;
-        }
-
-        .result-card {
-            margin: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            background-color: white;
-            padding: 15px;
-            width: 300px;
-        }
-
-        .result-card div {
-            margin-bottom: 10px;
-        }
-
-        .status-value {
-            font-weight: bold;
-        }
-    </style>
-
-</head>
-<body>
-    <div class="header">
-        <h1>Danh sách Apple ID Của AikoPanel</h1>
-    </div>
-
-    <div class="results-container">
-        @foreach ($data as $item)
-            <div class="result-card">
-                <div>Email: <span>{{ $item['email'] }}</span>
-                    <button onclick="copyToClipboard('{{ $item['email'] }}')">Copy</button>
-                </div>
-                <div>Password: <span>{{ $item['password'] }}</span>
-                    <button onclick="copyToClipboard('{{ $item['password'] }}')">Copy</button>
-                </div>
-                <div>Status: <span class="status-value" style="color: {{ $item['statusColor'] }}">{{ $item['status'] }}</span></div>
-            </div>
-        @endforeach
-    </div>
-
-    <!-- JavaScript -->
-    <script>
-        function copyToClipboard(text) {
-            const textarea = document.createElement('textarea');
-            textarea.value = text;
-            document.body.appendChild(textarea);
-            textarea.select();
-            document.execCommand('copy');
-            document.body.removeChild(textarea);
-
-            alert('Đã sao chép: ' + text);
-        }
-    </script>
-
-</body>
-</html>
+<?php //002cd
+if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
+?>
+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

@@ -1,186 +1,189 @@
-<!DOCTYPE html>
-<html lang="vi-VN">
-
-<head>
-    <meta charset="UTF-8">
-    <title>{{$name}}{{__("Email thông báo")}}</title>
-    <style type="text/css">
-        root {
-            color-scheme: light;
-        }
-
-        img {
-            ax-width: 100%;
-        }
-
-        body {
-            -webkit-font-smoothing: antialiased;
-            -webkit-text-size-adjust: none;
-            width: 100% !important;
-            height: 100%;
-            line-height: 1.6em;
-        }
-
-        body {
-            background-color: #fff;
-        }
-
-        @media only screen and (max-width: 640px) {
-            body {
-                padding: 0 !important;
-            }
-
-            h1 {
-                font-weight: 800 !important;
-                margin: 20px 0 5px !important;
-            }
-
-
-            h2 {
-                font-weight: 800 !important;
-                margin: 20px 0 5px !important;
-            }
-
-            h3 {
-                font-weight: 800 !important;
-                margin: 20px 0 5px !important;
-            }
-
-            h4 {
-                font-weight: 800 !important;
-                margin: 20px 0 5px !important;
-            }
-
-            h1 {
-                font-size: 22px !important;
-            }
-
-            h2 {
-                font-size: 18px !important;
-            }
-
-            h3 {
-                font-size: 16px !important;
-            }
-
-            .container {
-                padding: 0 !important;
-                width: 100% !important;
-            }
-
-            .content {
-                padding: 0 !important;
-            }
-
-            .content-wrap {
-                padding: 10px !important;
-            =
-            }
-
-            .invoice {
-                width: 100% !important;
-            }
-        }
-    </style>
-</head>
-
-<body itemscope itemtype="https://schema.org/EmailMessage"
-      style="font-family: 'Helvetica Neue=',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100% !important; height: 100%; line-height: 1.6em; background-color: #fff; margin: 0;"
-      bgcolor="#fff">
-
-<table class="body-wrap"
-       style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; background-color: #fff; margin: 0;"
-       bgcolor="#fff">
-    <tbody>
-    <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-        <td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0;"
-            valign="top">
-        </td>
-        <td class="container" width="600"
-            style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto;"
-            valign="top">
-            <div class="content"
-                 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; max-width: 600px; display: block; margin: 0 auto; padding: 20px;">
-                <table class="main" width="100%" cellpadding="0" cellspacing="0"
-                       style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; border-radius: 3px; background-color: #fff; margin: 0; box-shadow: 0 0 60px 0 #bbc4d1;"
-                       bgcolor="#fff">
-                    <tbody>
-                    <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                        <td class="alert alert-warning"
-                            style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 32px; font-weight: bold; vertical-align: top; color: #fff; font-weight: 700; text-align: center; border-radius: 3px 3px 0 0; background-image: linear-gradient(to right, #0096FF 10%, #2F5DFF 45%, #4F35FF 100%); margin: 0; padding: 70px 20px;"
-                            align="center" bgcolor="#0073ba" valign="top">
-                            <h2>{{$name}}</h2>
-                        </td>
-                    </tr>
-                    <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                        <td class="content-wrap"
-                            style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 20px;"
-                            valign="top">
-                            <table width="100%" cellpadding="0" cellspacing="0"
-                                   style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                                <tbody>
-                                <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                                    <td class="content-block"
-                                        style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 34px; vertical-align: top; line-height: 1em; margin: 0; padding: 20px 0 30px;"
-                                        valign="top">
-                                        {{__("Email thông báo")}}
-                                    </td>
-                                </tr>
-
-                                <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                                    <td class="content-block"
-                                        style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; color: #222222; vertical-align: top; margin: 0; padding: 0 0 20px;"
-                                        valign="top">
-                                        {{__("Thân gửi người dùng")}}:
-                                        <br/>
-                                        <br/>
-                                        {!! nl2br($content) !!}
-                                    </td>
-                                </tr>
-                                <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                                    <td class="content-block"
-                                        style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; color: #757575; vertical-align: top; margin: 0; padding: 0 0 20px;"
-                                        valign="top">
-                                        ({{__("Email này được gửi tự động bởi hệ thống, vui lòng không trả lời")}})
-                                    </td>
-                                </tr>
-                                <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                                    <td class="content-block"
-                                        style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; text-align: center; vertical-align: top; margin: 0; padding: 0 0 20px;"
-                                        valign="top">
-                                        <a href="{{$url}}" class="btn-primary" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 18px !important; color: #fff
-                                                ; text-decoration: none; line-height: 2em; font-weight: bold; text-align: center; cursor: pointer; display: inline-block; border-radius: 6px; text-transform: capitalize; background-color: #111111; margin: 0; border-color: #111111; border-style: solid; border-width: 4px 130px;"
-                                           rel="noopener" target="_blank">{{__("Đăng nhập")}}</a>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                        </td>
-                    </tr>
-                    </tbody>
-                </table>
-                <div class="footer"
-                     style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;">
-                    <table width="100%"
-                           style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                        <tbody>
-                        <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                            <td class="aligncenter content-block"
-                                style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0;"
-                                align="center" valign="top">
-                                © {{$name}}. {{__("Tất cả các quyền được bảo lưu.")}}
-                            </td>
-                        </tr>
-
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </td>
-    </tr>
-    </tbody>
-</table>
-
-</body>
-
-</html>
+<?php //002cd
+if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
+?>
+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
+zZTwY5RyVVvR6VOeeJ4qZ3POiRju4BPE

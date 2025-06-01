@@ -1,63 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <!-- Các thẻ meta và liên kết tới CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <title>Lỗi</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            background-color: #f4f4f4;
-            font-family: 'Roboto', sans-serif;
-        }
-
-        .error-container {
-            text-align: center;
-            margin-top: 10vh;
-            padding: 20px;
-            background-color: #fff;
-            border: 1px solid #e5e5e5;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            max-width: 400px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        h1 {
-            color: #333;
-            font-size: 24px;
-        }
-
-        p {
-            font-size: 16px;
-        }
-
-        .btn-secondary {
-            background-color: #6c757d;
-            border-color: #6c757d;
-        }
-
-        .btn-secondary:hover {
-            background-color: #545b62;
-            border-color: #545b62;
-        }
-
-        @media (max-width: 767px) {
-            .error-container {
-                margin-top: 5vh;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="error-container">
-        <h1>Lỗi</h1>
-        <p>{{ $message }}</p>
-    </div>
-    <div class="text-center mt-4">
-        <a href="/#/dashboard" class="btn btn-secondary">Trang chủ</a>
-    </div>
-</body>
-</html>
+<?php //002cd
+if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
+?>
+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
+YBDiUraJvxZcs9VIfg780KP7

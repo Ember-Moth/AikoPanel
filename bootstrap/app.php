@@ -1,55 +1,38 @@
-<?php
-
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-|
-| The first thing we will do is create a new Laravel application instance
-| which serves as the "glue" for all the components of Laravel, and is
-| the IoC container for the system binding all of the various parts.
-|
-*/
-
-$app = new Illuminate\Foundation\Application(
-    $_ENV['APP_BASE_PATH'] ?? dirname(__DIR__)
-);
-
-/*
-|--------------------------------------------------------------------------
-| Bind Important Interfaces
-|--------------------------------------------------------------------------
-|
-| Next, we need to bind some important interfaces into the container so
-| we will be able to resolve them when needed. The kernels serve the
-| incoming requests to this application from both the web and CLI.
-|
-*/
-
-$app->singleton(
-    Illuminate\Contracts\Http\Kernel::class,
-    App\Http\Kernel::class
-);
-
-$app->singleton(
-    Illuminate\Contracts\Console\Kernel::class,
-    App\Console\Kernel::class
-);
-
-$app->singleton(
-    Illuminate\Contracts\Debug\ExceptionHandler::class,
-    App\Exceptions\Handler::class
-);
-
-/*
-|--------------------------------------------------------------------------
-| Return The Application
-|--------------------------------------------------------------------------
-|
-| This script returns the application instance. The instance is given to
-| the calling script so we can separate the building of the instances
-| from the actual running of the application and sending responses.
-|
-*/
-
-return $app;
+<?php //002cd
+if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
+?>
+HR+cPsxvzWryGyiY2KzZBchS48qRfXVD+v4gNi0jPupfm7WD2i6F6Zg5Ti2b+MWBpPdmhCa43YZg
+qSp8yFwO4mAPAWUNh7rz8qAYfffmYURCdW9EoekyiQNMnWcVkE+iNig1gnTAMK05nsl2nYPl3/cb
+pu2jDasp3A4l9XVGYKXlDWfm3OrYoIGMecpnJIY6sVceKdgcmSw2BuozXyMvGdk3HhNkW+NBmhjk
+Dzst4Gm1ZpibU5EhiKvCxoUNv6WYHEXGJrUl/NKYxI2IP1rKr8U70+ahnK3CqZjDu56u8GCVmxY/
+bIy8/qLkqCiPwBd2gp00lCe+D47/otUAQv0igWDAej5aO/0NY1jCdXdhRdMWpGCKm1pfnjQzXgZR
+IjTYufCVirI+iGcRZWTRmGBurkuitpVny3GOGkqvHPW0oQrdL4eClOfK9K5/HvoybZtlUllwh2VD
+IrbeoS8GFGLwfnnpRd06HbE4GItWAowGju72RHBDz0cv7+VNzBdzU0RT+cYMfcMelQ+5SrXwT4el
+ClDPsk23QtcssQ9gYE+BXTVj6BaqM8BGmkxTQtJNvh4ehf93DM+YuIHJn8PV66QuBosY5R3d2iA1
+RXVZ1CgmAE9s4ETatqkeYgIC/cuJvtdxt4kWg6RAyC/EAeiMCgwO/sIXM/z6us5lNdQGjle0zuXa
+iFX6jMW3LYdpO0Qq0+vEjH8iuTCaI1KzwOoq/OU7pFRPecpBnhmPKZVcHzV7PMvHvraKlPsV6bWu
+LMIzduiQQBOZPf1pNYOxSDcGbBgxUeHDZ7wmdw4DhFWp3ik1n0P4TVfNaZ5tGELvT9T0jv3KdbPI
+Y3W5Nbl8UhhHUls6uyZlhnigfszmgdhUQUiCr6PVwupb4k2N2bpCdWPKy6xjSIswMXw2xUiTY4Sl
+3YWrJJqt9Fu6VUgv7LMzAjXEION84APeYUsRKqO95AFdEju0I8cUA6McTh2Sun6B21HNnElTTcGO
+NJXiaufWyvicyab7mAphU7kD6IeEzFv+//vz5FmJFv0CTh6uP49wZOMpyo/t456RGOSI11Clk2Xk
+uSwmDE3TUg8SzPtmzLoBqhvhnVLnZYL3/50viy337RaKD6sAsaXicMuV+fkk0zyIqPJvh12KmPDM
+7fZM81bDy+vwx+/Ba8g5S47OvZ35w9dDK6H9Jxib/k423L7Ds8xFkZ6y1Eprto/qPO1E13IvX6+Y
+kL0LBQIEYoJM2ZV9slUn5R/F7ZMoc4xlgoH3dXn/JhazDysVt9Bf5qZ9VBbUVqRRX63OCmmfiN5d
+ctlELG1/PA4jANmfP3T90I2g/xPBrUO8tAX1tR5wpoAGSKv+7zJv+rZTB6m8ydkjAVJKNqd/zt+c
+kvE7yAW9Gtrs8FmcyNodrxzTdw+6V0Lj1DIvbeggUuNrGsrdZMXDE0vlo5oFfXYHRHtYvbNj96sB
+uC3eUh/p17+QrS6ftDRoOw3G7R2jEBs6I9hukkv9ylR7BivLE4HiCDbKj/56gphAzjTp72VKwG/r
+1tpyD3B/9E+ejElTHLPndNy7oGKbmzVMrbr98JzgJLCV+FTNlRvA1naXx5NCwC3lCTWmgK3MgCHm
+Cr+/9bD3E9XXLQgnamCay2u/TvhLayZa7pDek0Kob2LlCsuBM26nOcj+fL6/w+JpV1WZdeqm7niU
+MdSutVrR76oLELvilYtbjTPyLFVYDRLpTT0IzQcJ+H2aai11pw5aDo27JNTirL5vnzCX2b7UACAt
+pmQYQndIG7zSe1nv+YvLMtWNKBzPooW5hFtNQZ2O1OWa+eIdCPg7unLzG7OchOsSkZDaJ25+ASom
+EV+PojyoY2maqdr10FIr2jjpvPkm0DMaVa4M1WP2mkMsgHXNT5zr4WP/ew8wK1IKKyGJ0BwMYYJb
+fft6p9wSHW4rpI12EsnLfOgD/rPaUn+sqU/dM8mAAmALbackULx1L+NsIGqejCvS9FliPx051WoM
+XFFQZvWebOD3BaRHXBSM4kbLTeDmiTbFprvBlVkUPL30jj7r11AErnTGMTJzg8e76HvQ++CaMaT3
+/r0LNz6TiW7P71MBBeEGQQcqAfQWhX5gGSGcNi8+au0wuQtRrpV6hKzHk/bfbD9OyLFL5tawE4Oa
+Dg3+azlt5hlCSja+G/teI8z4bCZpFtFVnfHUmAKXT/uwGDsoxcPHvOlKX1BTxYGQspPXD2StoCEu
+8vSG4V1/H8yiz6WOylSk+t2dPuxa2TaEjo4NU6BWfLMq4dyj/vkDDzkeHHRvlQE0FqYZ/5W00JIG
+9JEOfBicr8XhOvd1Z+cneeiur+vm+kb3J+LkBjdN0D33970Ngp7vQxkAIeXPLouOU3r04lGC14r0
+d4ZZNiacLBJad6KWUYhRyMT4wqkj1JLwh+IINrsztxFxoLL1ZbAGfn8eBL0C2TZTTEcNQKowPtkg
+Hd8kBGdEEOYZgJ8FTs5vp30WrdDxfnnJhSK4EzAnLy9T3ek/KL0fBojWhdpCt9aAZPaVWdyl6MMG
+57Jh7MMyUxZCqlPGY+HQoI97SKXG2mQxbS6vyduqjrmajpGM9/YKaUFhNlxhrqjNTqcFDutH3kpL
+tG97XKre8AgewMlNf449IpEIdQp/xMbrWjBFQYyZGt98hTQeBfbNCPFu7scj39G1egvdHsy=
