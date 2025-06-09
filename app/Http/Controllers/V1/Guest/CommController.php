@@ -1,54 +1,38 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\V1\Guest;
+
+use App\Http\Controllers\Controller;
+use App\Utils\Dict;
+use Illuminate\Support\Facades\Http;
+
+class CommController extends Controller
+{
+    public function config()
+    {
+        return response([
+            'data' => [
+                'tos_url' => config('aikopanel.tos_url'),
+                'is_email_verify' => (int)config('aikopanel.email_verify', 0) ? 1 : 0,
+                'is_invite_force' => (int)config('aikopanel.invite_force', 0) ? 1 : 0,
+                'email_whitelist_suffix' => (int)config('aikopanel.email_whitelist_enable', 0)
+                    ? $this->getEmailSuffix()
+                    : 0,
+                'is_recaptcha' => (int)config('aikopanel.recaptcha_enable', 0) ? 1 : 0,
+                'recaptcha_site_key' => config('aikopanel.recaptcha_site_key'),
+                'app_description' => config('aikopanel.app_description'),
+                'app_url' => config('aikopanel.app_url'),
+                'logo' => config('aikopanel.logo'),
+            ]
+        ]);
+    }
+
+    private function getEmailSuffix()
+    {
+        $suffix = config('aikopanel.email_whitelist_suffix', Dict::EMAIL_WHITELIST_SUFFIX_DEFAULT);
+        if (!is_array($suffix)) {
+            return preg_split('/,/', $suffix);
+        }
+        return $suffix;
+    }
+}

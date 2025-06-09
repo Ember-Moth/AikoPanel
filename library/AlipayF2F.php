@@ -1,137 +1,164 @@
-<?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php
+namespace Library;
+
+use Illuminate\Support\Facades\Http;
+
+class AlipayF2F {
+    private $appId;
+    private $privateKey;
+    private $alipayPublicKey;
+    private $signType = 'RSA2';
+    public $bizContent;
+    public $method;
+    public $notifyUrl;
+    public $response;
+
+    public function __construct()
+    {
+    }
+
+    public function verify($data): bool
+    {
+        if (is_string($data)) {
+            parse_str($data, $data);
+        }
+        $sign = $data['sign'];
+        unset($data['sign']);
+        unset($data['sign_type']);
+        ksort($data);
+        $data = $this->buildQuery($data);
+        $res = "-----BEGIN PUBLIC KEY-----\n" .
+            wordwrap($this->alipayPublicKey, 64, "\n", true) .
+            "\n-----END PUBLIC KEY-----";
+        if ("RSA2" == $this->signType) {
+            $result = (openssl_verify($data, base64_decode($sign), $res, OPENSSL_ALGO_SHA256) === 1);
+        } else {
+            $result = (openssl_verify($data, base64_decode($sign), $res) === 1);
+        }
+        openssl_free_key(openssl_get_publickey($res));
+        return $result;
+    }
+
+    public function setBizContent($bizContent = [])
+    {
+        $this->bizContent = json_encode($bizContent);
+    }
+
+    public function setMethod($method)
+    {
+        $this->method = $method;
+    }
+
+    public function setAppId($appId)
+    {
+        $this->appId = $appId;
+    }
+
+    public function setPrivateKey($privateKey)
+    {
+        $this->privateKey = $privateKey;
+    }
+
+    public function setAlipayPublicKey($alipayPublicKey)
+    {
+        $this->alipayPublicKey = $alipayPublicKey;
+    }
+
+    public function setNotifyUrl($url)
+    {
+        $this->notifyUrl = $url;
+    }
+
+    public function send()
+    {
+        $response = Http::get('https://openapi.alipay.com/gateway.do', $this->buildParam())->json();
+        $resKey = str_replace('.', '_', $this->method) . '_response';
+        if (!isset($response[$resKey])) throw new \Exception('从支付宝请求失败');
+        $response = $response[$resKey];
+        if ($response['msg'] !== 'Success') throw new \Exception($response['sub_msg']);
+        $this->response = $response;
+    }
+
+    public function getQrCodeUrl()
+    {
+        $response = $this->response;
+        if (!isset($response['qr_code'])) throw new \Exception('获取付款二维码失败');
+        return $response['qr_code'];
+    }
+
+    public function getResponse()
+    {
+        return $this->response;
+    }
+
+    public function buildParam(): array
+    {
+        $params = [
+            'app_id' => $this->appId,
+            'method' => $this->method,
+            'charset' => 'UTF-8',
+            'sign_type' => $this->signType,
+            'timestamp' => date('d-m-Y H:m:s'),
+            'biz_content' => $this->bizContent,
+            'version' => '1.0',
+            '_input_charset' => 'UTF-8'
+        ];
+        if ($this->notifyUrl) $params['notify_url'] = $this->notifyUrl;
+        ksort($params);
+        $params['sign'] = $this->buildSign($this->buildQuery($params));
+        return $params;
+    }
+
+    public function buildQuery($query)
+    {
+        if (!$query) {
+            throw new \Exception('参数构造错误');
+        }
+        //将要 参数 排序
+        ksort($query);
+
+        //重新组装参数
+        $params = array();
+        foreach ($query as $key => $value) {
+            $params[] = $key . '=' . $value;
+        }
+        $data = implode('&', $params);
+        return $data;
+    }
+
+    private function buildSign(string $signData): string
+    {
+        $privateKey = $this->privateKey;
+        $p_key = array();
+        //如果私钥是 1行
+        if (!stripos($privateKey, "\n")) {
+            $i = 0;
+            while ($key_str = substr($privateKey, $i * 64, 64)) {
+                $p_key[] = $key_str;
+                $i++;
+            }
+        }
+        $privateKey = "-----BEGIN RSA PRIVATE KEY-----\n" . implode("\n", $p_key);
+        $privateKey = $privateKey . "\n-----END RSA PRIVATE KEY-----";
+
+        //私钥
+        $privateId = openssl_pkey_get_private($privateKey, '');
+
+        // 签名
+        $signature = '';
+
+        if ("RSA2" == $this->signType) {
+
+            openssl_sign($signData, $signature, $privateId, OPENSSL_ALGO_SHA256);
+        } else {
+
+            openssl_sign($signData, $signature, $privateId, OPENSSL_ALGO_SHA1);
+        }
+
+        openssl_free_key($privateId);
+
+        //加密后的内容通常含有特殊字符，需要编码转换下
+        $signature = base64_encode($signature);
+        return $signature;
+    }
+}
